@@ -1,4 +1,7 @@
-### Hi there 👋
+- Hi, I'm @NickKuzmin (27 years old with more than 6 years of enterprise .Net-development) 👋
+- 🔭 I’m currently working for the UK's Leading Education Project on Arcadia (Saint-Petersburg, remote).
+- 👀 I’m interested in .Net, TypeScript, MS SQL/PostgreSQL/Redis/InfluxDB, Docker/K8S, DevOps & SRE.
+- 📫 How to reach me: kuzmin.nick@rambler.ru / Telegram: @kuzminnick
 
 <!--
 **NickKuzmin/NickKuzmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
