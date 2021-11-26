@@ -2,7 +2,7 @@
 - 🔭 I’m currently working for the UK's Leading Education Project with english speaking scrum-team on Arcadia (Saint-Petersburg, remote).
 - 👀 I’m interested in .Net, TypeScript, MS SQL/PostgreSQL, Docker/K8S, DevOps & SRE.
 - 🌱 I’m currently learning - Redis/InfluxDB, Docker/K8S, DevOps & SRE (Grafana/Prometheus/RabbitMq/Kafka & etc)
-- ⚡ **Current projects and learning:**
+- ⚡ Current projects and learning:
 
 > **Swagger:** https://github.com/NickKuzmin/swagger-api
 >
