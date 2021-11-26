@@ -1,6 +1,7 @@
-- Hi, I'm @NickKuzmin (27 years old with more than 6 years of enterprise .Net-development) 👋
-- 🔭 I’m currently working for the UK's Leading Education Project on Arcadia (Saint-Petersburg, remote).
+- Hi, I'm @NickKuzmin (C#-developemer with more than 6 years of enterprise .Net-development) 👋
+- 🔭 I’m currently working for the UK's Leading Education Project with english speaking scrum-team on Arcadia (Saint-Petersburg, remote).
 - 👀 I’m interested in .Net, TypeScript, MS SQL/PostgreSQL/Redis/InfluxDB, Docker/K8S, DevOps & SRE.
+- 🌱 I’m currently learning - Redis/InfluxDB, Docker/K8S, DevOps & SRE (Grafana/Prometheus/RabbitMq/Kafka & etc)
 - 📫 How to reach me: kuzmin.nick@rambler.ru / Telegram: @kuzminnick
 
 <!--
