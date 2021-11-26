@@ -4,6 +4,8 @@
 - 🌱 I’m currently learning - Redis/InfluxDB, Docker/K8S, DevOps & SRE (Grafana/Prometheus/RabbitMq/Kafka & etc)
 - ⚡ Current projects and technology study:
 
+> **Roadmap:** https://github.com/NickKuzmin/tasks-for-interview
+
 > **Swagger:** https://github.com/NickKuzmin/swagger-api
 >
 > **.Net Core Web API OData:** https://github.com/NickKuzmin/netcore-web-api-odata
