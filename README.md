@@ -6,9 +6,9 @@
 
 > **Roadmap:** https://github.com/NickKuzmin/tasks-for-interview
 
-> **Swagger:** https://github.com/NickKuzmin/swagger-api
->
 > **.Net Core Web API OData:** https://github.com/NickKuzmin/netcore-web-api-odata
+> 
+> **Swagger:** https://github.com/NickKuzmin/swagger-api
 
 > **Design Patterns:** https://github.com/NickKuzmin/design-patterns
 > 
