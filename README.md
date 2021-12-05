@@ -13,6 +13,8 @@
 > **Design Patterns:** https://github.com/NickKuzmin/design-patterns
 > 
 > **Data Structures and Algorithms:** https://github.com/NickKuzmin/data-structures-and-algorithms
+>
+> **Synchronization primitives:** https://github.com/NickKuzmin/synchronization-primitives
 
 > **InfluxDB:** https://github.com/NickKuzmin/influxdb-with-dotnet
 > 
