@@ -1,6 +1,6 @@
 - 👋 Hi, I'm @NickKuzmin (C# Software Engineer with more than 6 years of enterprise .Net-development)
 - 🔭 I’m currently working for the UK's Leading Education Project with english speaking scrum-team on Arcadia (Saint-Petersburg, remote).
-- 👀 I’m interested in .Net, MS SQL/PostgreSQL/EntityFramework/Redis, TypeScript, React.js/AngularJS/Knockout.js, LESS, NUnit/Selenium/JMeter.
+- 👀 I’m interested in .Net, MS SQL/PostgreSQL/EntityFramework/Redis, TypeScript, React/Angular/Knockout.js, LESS, NUnit/Selenium/JMeter.
 - 🌱 I’m currently learning - Redis/InfluxDB, Docker/K8S, DevOps & SRE (Grafana/Prometheus/RabbitMq/Kafka & etc)
 - ⚡ Current projects and technology study:
 
