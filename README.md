@@ -2,7 +2,7 @@
 - 🔭 I’m currently working an FCA authorised and regulated broker based in London - Sova Capital.
 Previously, I worked for the UK's Leading Education Project with english speaking scrum-team on Arcadia (Saint-Petersburg, remote).
 - 👀 I’m interested in .Net, MS SQL/PostgreSQL/EntityFramework/Redis, TypeScript, React/Angular/Knockout.js, LESS, NUnit/Selenium/JMeter.
-- 🌱 I’m currently learning - Redis/InfluxDB, Docker/K8S, DevOps & SRE (Grafana/Prometheus/RabbitMq/Kafka & etc)
+- 🌱 I’m currently learning - Redis/InfluxDB, Docker/K8S, DevOps & SRE (GrayLog/Grafana/Prometheus/RabbitMq/Kafka & etc)
 - ⚡ Current projects and technology study:
 
 > **Roadmap:** https://github.com/NickKuzmin/tasks-for-interview
