@@ -2,7 +2,7 @@
 - I’m currently working in the investing broker based in London - `Sova Capital Limited (Moscow/London - remote)`.
 - Previously, I worked for the UK's leading educational project with english speaking team on `Arcadia (Saint-Petersburg/Newcastle UK - remote)`.
 - I’m interested in `.Net, MS SQL/PostgreSQL/EntityFramework/Redis, TypeScript, React/Angular/Knockout.js, LESS, NUnit/Selenium/JMeter`.
-- I’m currently learning - `Redis/InfluxDB, Docker/K8S, DevOps & SRE (GrayLog/Grafana/Prometheus/RabbitMq/Kafka & etc)`
+- I’m currently learning - `Figma, Redis/InfluxDB, Docker/K8S, DevOps & SRE (GrayLog/Grafana/Prometheus/RabbitMq/Kafka & etc)`
 - Current projects and technology study:
 
 > **Roadmap:** https://github.com/NickKuzmin/tasks-for-interview
