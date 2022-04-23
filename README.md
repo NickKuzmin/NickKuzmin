@@ -7,7 +7,7 @@
 
 > **Roadmap:** https://github.com/NickKuzmin/tasks-for-interview
 
-> **.Net Core Web API - CQRS (MediatR, FluentValudation, nUnit, Moq, Autofixture):** https://github.com/NickKuzmin/web-api-samples
+> **.Net Core Web API - CQRS:** https://github.com/NickKuzmin/web-api-samples (`MediatR`, `FluentValudation`, `nUnit`, `Moq`, `Autofixture`)
 > 
 > **.Net Core Web API OData:** https://github.com/NickKuzmin/netcore-web-api-odata
 > 
