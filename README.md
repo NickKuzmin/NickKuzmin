@@ -1,7 +1,7 @@
-- 👋 Hi, I'm @NickKuzmin (`C# Software Engineer` with more than `10+ years of enterprise .Net-development`)
-- I’m currently working in the digitalization of industrial facilities at all stages of the life cycle in Moscow - `BIMeister (Moscow - remote)`.
-- Previously, I worked in the international investment banking company based in London - `Sova Capital Limited (Moscow/London - remote)`.
-- Also I worked for the UK's leading educational project with english speaking team on `Arcadia (Saint-Petersburg/Newcastle UK - remote)`.
+- 👋 Hi, I'm @NickKuzmin (`C# Software Engineer` with more than **`10+ years of enterprise .Net-development`**)
+- I’m currently working in the **digitalization of industrial facilities** at all stages of the life cycle in Moscow - **`BIMeister (Moscow - remote)`**.
+- Previously, I worked in the international **Investment Banking Company** based in London - **`Sova Capital Limited (Moscow/London - remote)`**.
+- Also I worked for the **UK's leading educational project** with english speaking team on **`Arcadia (Saint-Petersburg/Newcastle UK - remote)`**.
 - I’m interested in `.Net, MS SQL/PostgreSQL/EntityFramework/Redis, TypeScript, React/Angular/Knockout.js, LESS, NUnit/Selenium/JMeter`.
 - I’m currently learning - `Figma, Redis/InfluxDB, Docker/K8S, DevOps & SRE (GrayLog/Grafana/Prometheus/RabbitMq/Kafka & etc)`
 - Current projects and technology study:
