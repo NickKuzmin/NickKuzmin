@@ -8,6 +8,8 @@
 
 > **Roadmap:** https://github.com/NickKuzmin/tasks-for-interview
 
+> **Data Structures and Algorithms (LEETCODE):** https://github.com/NickKuzmin/data-structures-and-algorithms
+>
 > **.Net Core Web API - CQRS:** https://github.com/NickKuzmin/web-api-samples (`MediatR`, `FluentValudation`, `NUnit`, `Moq`, `Autofixture`, `CuttingEdge.Conditions`)
 > 
 > **.Net Core Web API OData:** https://github.com/NickKuzmin/netcore-web-api-odata
@@ -16,8 +18,6 @@
 
 > **Design Patterns:** https://github.com/NickKuzmin/design-patterns
 > 
-> **Data Structures and Algorithms:** https://github.com/NickKuzmin/data-structures-and-algorithms
->
 > **Synchronization primitives:** https://github.com/NickKuzmin/synchronization-primitives
 
 > **InfluxDB:** https://github.com/NickKuzmin/influxdb-with-dotnet
