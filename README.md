@@ -1,6 +1,6 @@
 - 👋 Hi, I'm @NickKuzmin (**`C# Software Engineer`** with more than **`10+ years of enterprise .Net-Development`**)
 
-🏢 **Currently**: Digitalizing industrial facilities across their full lifecycle @ [Bimeister](https://bimeister.io) *(Moscow, remote)*
+🏢 **Currently**: Digitalizing industrial facilities across their full lifecycle @ [Bimeister](https://bimeister.com) *(Moscow, remote)*
 
 ✅ **Recent impact**:
 `✓ Reduced API test failure rate to 0% (eliminated ~3% flaky runs)`
@@ -11,9 +11,9 @@
 
 🛠 **Tech Stack:** C# .Net, EF Core, PostgreSQL, Redis, RabbitMQ, MassTransit, K8s/Docker, Gitlab, Grafana, Amazon S3, xUnit.NET, Angular. 
 
-- Previously, I worked in the international **Investment Banking Company** based in London - **`Sova Capital Limited (Moscow/London - remote)`**.
-  
-- Also I worked for the **UK's leading educational project** with english speaking team on **`Arcadia (Saint-Petersburg/Newcastle UK - remote)`**.
+🕰 **Previously**:
+- **Sova Capital** *(London-based investment banking)* — Backend for trading systems *(Moscow/London, remote)*
+- **Arcadia** *(UK edtech project)* — Collaborated with native English-speaking team *(SPb/Newcastle, remote)*
   --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --
 - I’m interested in `.Net, MS SQL/PostgreSQL/EntityFramework/Redis, TypeScript, React/Angular/Knockout.js, LESS, NUnit/Selenium/JMeter`.
 - I’m currently learning - `Figma, Redis/InfluxDB, Docker/K8S, DevOps & SRE (GrayLog/Grafana/Prometheus/RabbitMq/Kafka & etc)`
