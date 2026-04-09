@@ -1,6 +1,6 @@
 - 👋 Hi, I'm @NickKuzmin (**`C# Software Engineer`** with more than **`10+ years of enterprise .Net-Development`**)
 
-🏢 **Currently**: End-to-end digitalization of industrial facilities @ [Bimeister](https://bimeister.com) *(Moscow, remote)*
+🏢 **Currently**: Building Russia's leading industrial digitalization platform  (BIM + Digital Twins + Lifecycle Management) @ [Bimeister](https://bimeister.com) *(Moscow, remote)*
 
 ✅ **Recent impact**:
 
