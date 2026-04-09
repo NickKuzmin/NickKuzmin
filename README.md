@@ -7,7 +7,7 @@
 
 `✓ Reduced API test failure rate to 0% (eliminated ~3% flaky runs)`
 
-`✓ Built 10+ dedicated debugging endpoints for rapid BPMS/workflow troubleshooting`
+`✓ Built dedicated debugging endpoints for rapid BPMS/workflow troubleshooting`
 
 `✓ Enforced 1 prod incident → 1 regression test pipeline → 90%+ of historical bugs now caught automatically`
 
