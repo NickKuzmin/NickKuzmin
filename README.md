@@ -1,6 +1,8 @@
 - 👋 Hi, I'm @NickKuzmin (**`C# Software Engineer`** with more than **`10+ years of enterprise .Net-Development`**)
 
-🏢 **Currently**: Building Russia's leading industrial digitalization platform  (BIM + Digital Twins + Lifecycle Management)
+🏢 **Currently**: Building Russia's leading industrial digitalization platform  
+
+(BIM + Digital Twins + Lifecycle Management)
 @ [Bimeister](https://bimeister.com) *(Moscow, remote)*
 
 ✅ **Recent impact**:
