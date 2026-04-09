@@ -9,6 +9,8 @@
 
 `✓ Built dedicated debugging endpoints for rapid BPMS/workflow troubleshooting`
 
+`✓ Maintainer for 8 core services (Digital Signature, Notifications, Journal, FileStorage, Auth, Licensing, Reporting & Automigrations) within a 45+ microservice Bimeister ecosystem.`
+
 `✓ Enforced 1 prod incident → 1 regression test pipeline → 90%+ of historical bugs now caught automatically`
 
 🛠 **Tech Stack:** C# .Net, EF Core, PostgreSQL, Redis, RabbitMQ, MassTransit, K8s/Docker, Gitlab, Grafana, Amazon S3, xUnit.NET, FluentValudation, MediatR, Angular. 
