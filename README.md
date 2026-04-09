@@ -2,6 +2,8 @@
   
 - I’m currently working in the **Digitalization of industrial facilities** at all stages of the life cycle - **`Bimeister (Moscow - remote)`**.
 
+*Tech Stack:* C# .Net 8.0, PostgreSQL, Redis, RabbitMQ, K8s/Docker, Grafana, Amazon S3, Angular. 
+
 - Previously, I worked in the international **Investment Banking Company** based in London - **`Sova Capital Limited (Moscow/London - remote)`**.
   
 - Also I worked for the **UK's leading educational project** with english speaking team on **`Arcadia (Saint-Petersburg/Newcastle UK - remote)`**.
