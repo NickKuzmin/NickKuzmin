@@ -5,7 +5,7 @@
 
 ✅ **Recent impact**:
 
-`✓ Maintainer for 8 core services (Digital Signature, Notifications, Journal, FileStorage, Auth, Licensing, Reporting & Automigrations) within a 45+ microservice Bimeister ecosystem.`
+`✓ Maintainer for 9 core services (BPMS Engine, Digital Signature, Reporting, Notifications, Journal, FileStorage, Auth, Licensing & Automigrations) within a 45+ microservice Bimeister ecosystem.`
 
 `✓ Reduced API test failure rate to 0% (eliminated ~3% flaky runs)`
 
