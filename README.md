@@ -2,7 +2,7 @@
   
 - I’m currently working in the **Digitalization of industrial facilities** at all stages of the life cycle - **`Bimeister (Moscow - remote)`**.
 
-*Tech Stack:* C# .Net, EF Core, PostgreSQL, Redis, RabbitMQ, K8s/Docker, Grafana, Amazon S3, xUnit.NET, Angular. 
+*Tech Stack:* C# .Net, EF Core, PostgreSQL, Redis, RabbitMQ, MassTransit, K8s/Docker, Grafana, Amazon S3, xUnit.NET, Angular. 
 
 - Previously, I worked in the international **Investment Banking Company** based in London - **`Sova Capital Limited (Moscow/London - remote)`**.
   
