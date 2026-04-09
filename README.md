@@ -7,13 +7,13 @@
 
 `✓ Maintainer for 9 core services (BPMS Engine, Digital Signature, Reporting, Notifications, Journal, FileStorage, Auth, Licensing & Automigrations) within a 45+ microservice Bimeister ecosystem.`
 
-`✓ Authored 1,600 API tests (25% of the 6.4к API tests) and 400 unit tests (~12% of 3.4K), significantly expanding automated coverage across critical workflows and core components.`
+`✓ Authored 1.600 API tests (25% of the 6.400 API tests) and 400 unit tests (~12% of 3.400), significantly expanding automated coverage across critical workflows and core components.`
 
 `✓ Reduced API test failure rate to 0% (eliminated ~3% flaky runs)`
 
 `✓ Built dedicated debugging endpoints for rapid BPMS/workflow troubleshooting`
 
-`✓ Enforced 1 prod incident → 1 regression test pipeline → 90%+ of historical bugs now caught automatically`
+`✓ Enforced 1 prod incident -> 1 regression test pipeline -> 90%+ of historical bugs now caught automatically`
 
 🛠 **Tech Stack:** C# .Net, EF Core, PostgreSQL, Redis, RabbitMQ, MassTransit, K8s/Docker, Gitlab, Jaeger/Grafana/EFK, Amazon S3, xUnit.NET, FluentValudation, MediatR, Angular. 
 
