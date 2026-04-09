@@ -2,11 +2,11 @@
   
 - I’m currently working in the **Digitalization of industrial facilities** at all stages of the life cycle - **`Bimeister (Moscow - remote)`**.
 
-✓ Reduced API test failure rate to 0% (eliminated ~3% flaky runs)
+`✓ Reduced API test failure rate to 0% (eliminated ~3% flaky runs)`
 
-✓ Built 10+ dedicated debugging endpoints for rapid BPMS/workflow troubleshooting
+`✓ Built 10+ dedicated debugging endpoints for rapid BPMS/workflow troubleshooting`
 
-✓ Enforced 1 prod incident → 1 regression test pipeline → 90%+ of historical bugs now caught automatically
+`✓ Enforced 1 prod incident → 1 regression test pipeline → 90%+ of historical bugs now caught automatically`
 
 *Tech Stack:* C# .Net, EF Core, PostgreSQL, Redis, RabbitMQ, MassTransit, K8s/Docker, Gitlab, Grafana, Amazon S3, xUnit.NET, Angular. 
 
