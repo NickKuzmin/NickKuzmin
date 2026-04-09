@@ -11,7 +11,7 @@
 
 `✓ Enforced 1 prod incident → 1 regression test pipeline → 90%+ of historical bugs now caught automatically`
 
-🛠 **Tech Stack:** C# .Net, EF Core, PostgreSQL, Redis, RabbitMQ, MassTransit, K8s/Docker, Gitlab, Grafana, Amazon S3, xUnit.NET, Angular. 
+🛠 **Tech Stack:** C# .Net, EF Core, PostgreSQL, Redis, RabbitMQ, MassTransit, K8s/Docker, Gitlab, Grafana, Amazon S3, xUnit.NET, FluentValudation, MediatR, Angular. 
 
 🕰 **Previously**:
 - **Sova Capital** *(London-based investment banking)* — Backend for trading systems *(Moscow/London, remote)*
