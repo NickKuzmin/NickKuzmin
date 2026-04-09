@@ -1,4 +1,4 @@
-- 👋 Hi, I'm @NickKuzmin (**`C# Software Engineer`** with more than **`10+ years of Enterprise .Net-Development`**)
+- 👋 Hi, I'm @NickKuzmin (**`C# Software Engineer`** with more than **`10+ years of Enterprise .NET Development`**)
 
 🏢 **Currently**: Building Russia's leading industrial digitalization platform (Bimeister Flow\Data\Construct\Right\Control)
 @ [Bimeister](https://bimeister.com) *(Moscow, remote)*
