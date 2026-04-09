@@ -3,6 +3,7 @@
 🏢 **Currently**: End-to-end digitalization of industrial facilities @ [Bimeister](https://bimeister.com) *(Moscow, remote)*
 
 ✅ **Recent impact**:
+
 `✓ Reduced API test failure rate to 0% (eliminated ~3% flaky runs)`
 
 `✓ Built 10+ dedicated debugging endpoints for rapid BPMS/workflow troubleshooting`
