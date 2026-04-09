@@ -1,6 +1,6 @@
 - 👋 Hi, I'm @NickKuzmin (**`C# Software Engineer`** with more than **`10+ years of enterprise .Net-Development`**)
 
-🏢 **Currently**: Digitalizing industrial facilities across their full lifecycle @ [Bimeister](https://bimeister.com) *(Moscow, remote)*
+🏢 **Currently**: End-to-end digitalization of industrial facilities @ [Bimeister](https://bimeister.com) *(Moscow, remote)*
 
 ✅ **Recent impact**:
 `✓ Reduced API test failure rate to 0% (eliminated ~3% flaky runs)`
