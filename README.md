@@ -51,7 +51,7 @@
 > 
 > **Load Testing:** https://github.com/NickKuzmin/load-testing
 
-- 📫 How to reach me: kuzmin.nick@rambler.ru / Telegram: @kuzminnick / LinkedIn: linkedin.com/in/kuzmin-nikita
+- 📫 How to reach me: kuzmin.nick@rambler.ru / Telegram: @kuzminnick / LinkedIn: linkedin.com/in/kuzmin-nikita / Habr: career.habr.com/kuzminnick
 
 <!--
 **NickKuzmin/NickKuzmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
