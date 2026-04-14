@@ -7,11 +7,11 @@
 
 `✓ Maintainer for 9 core services (BPMS Engine, Digital Signature, Reporting, Notifications, Journal, FileStorage, Auth, Licensing & Automigrations) within a 45+ microservice Bimeister ecosystem.`
 
+`✓ Authored 1.600 API tests (25% of the 6.400 API tests) and 400 unit tests (~12% of 3.400), significantly expanding automated coverage across critical workflows and core components.`
+
 `✓ Served as primary code reviewer for 90% of all Merge Requests in the Bimeister Flow product stream`
 
 `✓ Led a 12-person cross-functional squad (SA/Backend/Frontend), implemented individual velocity tracking → improved delivery predictability and reduced feature time-to-market by 20%`
-
-`✓ Authored 1.600 API tests (25% of the 6.400 API tests) and 400 unit tests (~12% of 3.400), significantly expanding automated coverage across critical workflows and core components.`
 
 `✓ Dropped flaky test rate to 0% (eliminated ~3% unstable runs) and enforced a strict «zero-tolerance» policy for consistently failing tests`
 
