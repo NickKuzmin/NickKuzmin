@@ -11,7 +11,7 @@
 
 `✓ Served as primary code reviewer for 90% of all Merge Requests in the Bimeister Flow product stream`
 
-`✓ Led a 12-person cross-functional squad (SA/Backend/Frontend), implemented individual velocity tracking → improved delivery predictability and reduced feature time-to-market by 20%`
+`✓ Led a 12-person cross-functional team (Backend/Frontend/SA), implemented individual velocity tracking -> improved delivery predictability and reduced feature time-to-market by 20%`
 
 `✓ Dropped flaky test rate to 0% (eliminated ~3% unstable runs) and enforced a strict «zero-tolerance» policy for consistently failing tests`
 
